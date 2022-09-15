@@ -1,10 +1,10 @@
-
+import Seorch from './components/Seorch';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-        <h1>Hello World</h1>
+    < div className="App">
+        <Seorch/>
     </div>
   );
 }
